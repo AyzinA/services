@@ -1,6 +1,6 @@
 {
-  "name": "ESXi",
-  "logo": "/svg/vsphere.svg",
+  "name": "VMware ESXi 8.0.3",
+  "logo": "/svg/vmware.svg",
   "description": "VMware ESXi is a bare-metal hypervisor that allows multiple operating systems to run as virtual machines on a single physical server.",
   "url": "https://10.0.1.20/"
 }

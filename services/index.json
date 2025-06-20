@@ -1,8 +1,10 @@
 [
     "fortigate-main",
     "fortigate-vm",
+    "hp",
     "vcenter",
     "esxi",
-    "proxmox"
+    "proxmox",
+    "nas"
   ]
   

@@ -1,6 +1,0 @@
-{
-    "name": "Mail Service",
-    "logo": "/svg/zwave.svg",
-    "description": "Handles all internal email routing",
-    "url": "https://mail.internal"
-  }

@@ -1,6 +1,6 @@
 {
-  "name": "Fortigate VM",
+  "name": "Fortigate VM64",
   "logo": "/svg/fortinet.svg",
-  "description": "FortiGate VM",
+  "description": "FortiGate VM64 v7.4.8",
   "url": "https://10.0.1.11/"
 }

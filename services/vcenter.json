@@ -1,6 +1,6 @@
 {
-  "name": "vCenter",
-  "logo": "/svg/vsphere.svg",
+  "name": "VMware vCenter 8.0.3",
+  "logo": "/svg/vmware.svg",
   "description": "VMware vCenter is advanced server management software that provides a centralized platform for controlling your VMware vSphere environments.",
   "url": "https://10.0.1.25/"
 }
