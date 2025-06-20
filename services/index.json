@@ -1,9 +1,8 @@
 [
     "fortigate-main",
     "fortigate-vm",
-    "mail",
-    "jira",
-    "storage",
-    "chat"
+    "vcenter",
+    "esxi",
+    "proxmox"
   ]
   
