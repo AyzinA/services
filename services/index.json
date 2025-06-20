@@ -5,6 +5,7 @@
     "vcenter",
     "esxi",
     "proxmox",
-    "nas"
+    "nas",
+    "taiga"
   ]
   
