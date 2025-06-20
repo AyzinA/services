@@ -19,7 +19,7 @@ async function loadServices() {
   const files = await fetch(`${GITHUB_BASE_URL}index.json`).then(res => res.json());
 
   for (const file of files) {
-    const data = await fetch(`${GITHUB_BASE_URL}${file}`).then(res => res.json());
+    const data = await fetch(`${GITHUB_BASE_URL}${file}.json`).then(res => res.json());
 
     const card = document.createElement("div");
     card.className = "service-card";
