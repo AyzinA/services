@@ -1,6 +1,6 @@
 {
-    "name": "Plex",
-    "logo": "/svg/plex.svg",
-    "description": "Plex is streaming platform to offer movies, shows, and live TV together.",
-    "url": "http://plex.skynet.internal:32400/"
-  }
+  "name": "Plex",
+  "logo": "/svg/plex.svg",
+  "description": "Plex is streaming platform to offer movies, shows, and live TV together.",
+  "url": "http://plex.skynet.internal:32400/"
+}

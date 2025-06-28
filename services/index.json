@@ -1,12 +1,11 @@
 [
-    "fortigate-main",
-    "fortigate-vm",
-    "hp",
-    "vcenter",
-    "esxi",
-    "proxmox",
-    "nas",
-    "plex",
-    "taiga"
-  ]
-  
+  "fortigate-main",
+  "fortigate-vm",
+  "hp",
+  "vcenter",
+  "esxi",
+  "proxmox",
+  "nas",
+  "plex",
+  "taiga"
+]

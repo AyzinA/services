@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Fortigate 90E",
+        "logo": "/svg/fortinet.svg",
+        "description": "FortiGate, a next-generation firewall.",
+        "version": "7.4.8",
+        "url": "https://fw.skynet.internal/",
+        "hide": false
+    },
+    {
+        "name": "Fortigate VM",
+        "logo": "/svg/fortinet.svg",
+        "description": "FortiGateVM , a next-generation firewall.",
+        "version": "7.4.8",
+        "url": "https://fw.skynet.internal/",
+        "hide": false
+    }
+]

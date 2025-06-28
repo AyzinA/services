@@ -1,6 +1,6 @@
 {
-    "name": "Synology NAS DS923+",
-    "logo": "/img/synology.png",
-    "description": "The Synology DS923+ is a powerful 4-bay network-attached storage (NAS) device designed for small businesses and home offices.",
-    "url": "http://nas.skynet.internal:5000/"
-  }
+  "name": "Synology NAS DS923+",
+  "logo": "/img/synology.png",
+  "description": "The Synology DS923+ is a powerful 4-bay network-attached storage (NAS) device designed for small businesses and home offices.",
+  "url": "http://nas.skynet.internal:5000/"
+}
