@@ -14,5 +14,60 @@
         "version": "7.4.8",
         "url": "https://fw.skynet.internal/",
         "hide": false
+    },
+    {
+        "name": "HP 2530-24G Switch",
+        "logo": "/svg/hp.svg",
+        "description": "HP switches, now commonly known as Aruba or HPE (Hewlett Packard Enterprise) switches.",
+        "version": "YA.16.11.0025",
+        "url": "http://switch.skynet.internal/",
+        "hide": false
+    },
+    {
+        "name": "VMware vCenter",
+        "logo": "/svg/vmware.svg",
+        "description": "VMware vCenter is advanced server management software that provides a centralized platform for controlling your VMware vSphere environments.",
+        "version": "8.0.3",
+        "url": "https://vcenter.skynet.local/",
+        "hide": false
+    },
+    {
+        "name": "VMware ESXi",
+        "logo": "/svg/vmware.svg",
+        "description": "VMware ESXi is a bare-metal hypervisor that allows multiple operating systems to run as virtual machines on a single physical server.",
+        "version": "8.0.3",
+        "url": "https://esxi.skynet.local/",
+        "hide": false
+    },
+    {
+        "name": "Proxmox",
+        "logo": "/svg/proxmox.svg",
+        "description": "Proxmox Virtual Environment is an open source server virtualization management solution based on QEMU/KVM and LXC.",
+        "version": "8.4.1",
+        "url": "https://pve.skynet.internal:8006/",
+        "hide": false
+    },
+    {
+        "name": "Synology NAS DS923+",
+        "logo": "/img/synology.png",
+        "description": "The Synology DS923+ is a powerful 4-bay network-attached storage (NAS) device designed for small businesses and home offices.",
+        "version": "DSM 7.2.2-72806 Update 3",
+        "url": "http://nas.skynet.internal:5000/",
+        "hide": false
+    },
+    {
+        "name": "Plex",
+        "logo": "/svg/plex.svg",
+        "description": "Plex is streaming platform to offer movies, shows, and live TV together.",
+        "version": "1.41.8.9834-72009834",
+        "url": "http://plex.skynet.internal:32400/",
+        "hide": false
+    },
+    {
+        "name": "Taiga",
+        "logo": "/svg/taiga.svg",
+        "description": "Taiga.io is a free and open-source project management tool designed for agile teams.",
+        "url": "http://taiga.skynet.internal:9000/",
+        "hide": false
     }
 ]
