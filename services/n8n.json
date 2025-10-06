@@ -1,0 +1,7 @@
+{
+    "name": "n8n",
+    "logo": "/svg/n8n.svg",
+    "description": "Secure Workflow Automation for Technical Teams.",
+    "url": "https://n8n.skynet.internal/",
+    "hide": false
+}
