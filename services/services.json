@@ -69,5 +69,12 @@
         "description": "Taiga.io is a free and open-source project management tool designed for agile teams.",
         "url": "http://taiga.skynet.internal:9000/",
         "hide": false
+    },
+    {
+        "name": "n8n",
+        "logo": "/svg/n8n.svg",
+        "description": "Secure Workflow Automation for Technical Teams.",
+        "url": "https://n8n.skynet.internal/",
+        "hide": false
     }
 ]
