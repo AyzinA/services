@@ -67,7 +67,7 @@
         "name": "Taiga",
         "logo": "/svg/taiga.svg",
         "description": "Taiga.io is a free and open-source project management tool designed for agile teams.",
-        "url": "http://taiga.skynet.internal:9000/",
+        "url": "https://taiga.skynet.internal/",
         "hide": false
     },
     {
