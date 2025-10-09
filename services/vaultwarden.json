@@ -1,0 +1,6 @@
+{
+  "name": "Vaultwarden",
+  "logo": "/svg/vaultwarden.svg",
+  "description": "An alternative server implementation of the Bitwarden Client API, written in Rust and compatible with official Bitwarden clients.",
+  "url": "https://pass.skynet.local/"
+}
