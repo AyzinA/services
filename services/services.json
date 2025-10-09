@@ -52,7 +52,7 @@
         "logo": "/img/synology.png",
         "description": "The Synology DS923+ is a powerful 4-bay network-attached storage (NAS) device designed for small businesses and home offices.",
         "version": "DSM 7.2.2-72806 Update 3",
-        "url": "http://nas.skynet.internal:5000/",
+        "url": "https://nas.skynet.internal:5001/",
         "hide": false
     },
     {
@@ -76,5 +76,11 @@
         "description": "Secure Workflow Automation for Technical Teams.",
         "url": "https://n8n.skynet.internal/",
         "hide": false
+    },
+    {
+      "name": "Vaultwarden",
+      "logo": "/svg/vaultwarden.svg",
+      "description": "An alternative server implementation of the Bitwarden Client API, written in Rust and compatible with official Bitwarden clients.",
+      "url": "https://pass.skynet.local/"
     }
 ]
