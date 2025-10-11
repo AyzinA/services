@@ -1,9 +1,17 @@
-version: '3.8'
-
 services:
-  web:
+  services:
     build: .
+    container_name: services
+    restart: unless-stopped
+
+  nginx:
+    image: nginx:1.28.0
+    restart: unless-stopped
+    depends_on:
+      - services
     ports:
-      - "8080:80"
+      - "80:80"
+      - "443:443"
     volumes:
-      - ./services:/usr/share/nginx/html/services:ro
+      - ./nginx/conf.d:/etc/nginx/conf.d:ro
+      - ./certs:/etc/nginx/certs
