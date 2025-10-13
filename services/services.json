@@ -87,6 +87,6 @@
         "name": "Vault",
         "logo": "/svg/vault.svg",
         "description": "HashiCorp Vault is a tool that securely manages secrets and sensitive data, such as API keys, passwords, and certificates.",
-        "url": "https://vault.skynet.internal/"
+        "url": "https://vault.skynet.internal:8200/"
     }
 ]
