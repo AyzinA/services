@@ -94,5 +94,11 @@
         "logo": "/svg/checkmk.svg",
         "description": "Gain a complete view of your entire IT infrastructure: from public cloud providers, to your data centers, across servers, networks, containers, and more.",
         "url": "https://checkmk.skynet.internal/"
+    },
+    {
+      "name": "Mattermost",
+      "logo": "/svg/mattermost.svg",
+      "description": "Mattermost is an open core, self-hosted collaboration platform that offers chat, workflow automation, voice calling, screen sharing, and AI integration.",
+      "url": "https://mattermost.skynet.internal/"
     }
 ]
