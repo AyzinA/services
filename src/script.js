@@ -12,7 +12,7 @@ window.VANTA.WAVES({
 
 
 const GITHUB_BASE =
-  "https://raw.githubusercontent.com/AyzinA/services/refs/heads/master/";
+  "https://raw.githubusercontent.com/AyzinA/services/master/";
 const SERVICES_JSON = `${GITHUB_BASE}services/services.json`;
 const PUBLIC_ASSETS = `${GITHUB_BASE}public/`;
 
