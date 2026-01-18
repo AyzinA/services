@@ -1,6 +1,6 @@
 {
   "name": "EJBCA",
-  "logo": "/svg/vault.svg",
+  "logo": "/svg/ejbca.svg",
   "description": "EJBCA covers certificate issuing, management, and certificate validation. The Open Source CA can easily be scaled to match the needs of your PKI.",
   "url": "https://issuing.skynet.internal/ejbca/adminweb/"
 }
