@@ -14,5 +14,6 @@
   "checkmk",
   "mattermost",
   "ejbca",
-  "alexandrie"
+  "alexandrie",
+  "overseerr"
 ]

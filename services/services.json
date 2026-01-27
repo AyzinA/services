@@ -112,5 +112,11 @@
     "logo": "/svg/alexandrie .svg",
     "description": "A powerful Markdown workspace designed for speed, clarity, and creativity.",
     "url": "https://alexandrie.skynet.internal/"
+    },
+    {
+    "name": "Overseerr",
+    "logo": "/svg/overseerr.svg",
+    "description": "Overseerr is a request management and media discovery tool built to work with your existing Plex ecosystem.",
+    "url": "https://over.skynet.internal/"
     }
 ]
