@@ -1,0 +1,6 @@
+{
+  "name": "AdGuard Home",
+  "logo": "/svg/adguard.svg",
+  "description": "AdGuard Home is a network-wide software designed to block ads, trackers, and malicious content by acting as a DNS server.",
+  "url": "https://adguard.skynet.internal/"
+}

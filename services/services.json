@@ -96,27 +96,33 @@
         "url": "https://checkmk.skynet.internal/"
     },
     {
-      "name": "Mattermost",
-      "logo": "/svg/mattermost.svg",
-      "description": "Mattermost is an open core, self-hosted collaboration platform that offers chat, workflow automation, voice calling, screen sharing, and AI integration.",
-      "url": "https://mattermost.skynet.internal/"
+        "name": "Mattermost",
+        "logo": "/svg/mattermost.svg",
+        "description": "Mattermost is an open core, self-hosted collaboration platform that offers chat, workflow automation, voice calling, screen sharing, and AI integration.",
+        "url": "https://mattermost.skynet.internal/"
     },
     {
-    "name": "EJBCA",
-    "logo": "/svg/vault.svg",
-    "description": "EJBCA covers certificate issuing, management, and certificate validation. The Open Source CA can easily be scaled to match the needs of your PKI.",
-    "url": "https://issuing.skynet.internal/ejbca/adminweb/"
+        "name": "EJBCA",
+        "logo": "/svg/vault.svg",
+        "description": "EJBCA covers certificate issuing, management, and certificate validation. The Open Source CA can easily be scaled to match the needs of your PKI.",
+        "url": "https://issuing.skynet.internal/ejbca/adminweb/"
     },
     {
-    "name": "Alexandrie",
-    "logo": "/svg/alexandrie .svg",
-    "description": "A powerful Markdown workspace designed for speed, clarity, and creativity.",
-    "url": "https://alexandrie.skynet.internal/"
+        "name": "Alexandrie",
+        "logo": "/svg/alexandrie .svg",
+        "description": "A powerful Markdown workspace designed for speed, clarity, and creativity.",
+        "url": "https://alexandrie.skynet.internal/"
     },
     {
-    "name": "Overseerr",
-    "logo": "/svg/overseerr.svg",
-    "description": "Overseerr is a request management and media discovery tool built to work with your existing Plex ecosystem.",
-    "url": "https://over.skynet.internal/"
+        "name": "Overseerr",
+        "logo": "/svg/overseerr.svg",
+        "description": "Overseerr is a request management and media discovery tool built to work with your existing Plex ecosystem.",
+        "url": "https://over.skynet.internal/"
+    },
+    {
+        "name": "AdGuard Home",
+        "logo": "/svg/adguard.svg",
+        "description": "AdGuard Home is a network-wide software designed to block ads, trackers, and malicious content by acting as a DNS server.",
+        "url": "https://adguard.skynet.internal/"
     }
 ]
