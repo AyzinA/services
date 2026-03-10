@@ -124,5 +124,11 @@
         "logo": "/svg/adguard.svg",
         "description": "AdGuard Home is a network-wide software designed to block ads, trackers, and malicious content by acting as a DNS server.",
         "url": "https://adguard.skynet.internal/"
+    },
+    {
+        "name": "Tasks",
+        "logo": "/svg/tasks.svg",
+        "description": "Kanban board with PostgreSQL persistence, installable on mobile and desktop.",
+        "url": "https://tasks.skynet.internal/"
     }
 ]

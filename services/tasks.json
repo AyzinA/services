@@ -1,0 +1,6 @@
+{
+  "name": "Tasks",
+  "logo": "/svg/tasks.svg",
+  "description": "Kanban board with PostgreSQL persistence, installable on mobile and desktop.",
+  "url": "https://tasks.skynet.internal/"
+}
